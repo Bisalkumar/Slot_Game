@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgement
 
-Thanks to OpenAI and the community for guidance and suggestions in building this fun project.
+Thanks to youtube and the community for guidance and suggestions in building this fun project.
 
 
